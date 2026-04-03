@@ -1,0 +1,41 @@
+# Data
+data/
+*.csv
+*.zip
+
+# Model artifacts
+models/*.joblib
+
+# Plots (regenerated)
+plots/*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Env
+.env
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle
+kaggle.json
